@@ -3,5 +3,5 @@ package main
 import "github.com/mnogokotin/chat-gpt-test/internal/app"
 
 func main() {
-	app.Run()
+	app.Main()
 }
